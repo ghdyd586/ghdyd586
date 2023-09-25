@@ -2,7 +2,17 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghdyd586)](https://solved.ac/ghdyd586)
 
 
-<h2>About Me</h2>
+<h3>About Me</h3>
+
+
+
+
+
+<a><img src="https://i0.wp.com/innovationtoronto.com/wp-content/uploads/2022/07/Kookin-logo.png.pagespeed.ce_.bgnTSn72mh4.png?w=480&ssl=1"/></a>
+<a><img src="https://wclo.us/files/teamlogos/medium/3211673225102.png"/></a>
+
+
+
 
 <a href="https://www.instagram.com/yongthehuman/" target="_blank"><img src="https://img.shields.io/badge/yongthehuman-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="mailto:ghdyd586@gmail.com"><img src="https://img.shields.io/badge/ghdyd586@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ghdyd586@gmail.com"/></a>
