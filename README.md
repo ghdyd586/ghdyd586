@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
   1. Graduation Project using Google MediaPipe, CNN, Unity, and React Native
-  2. Web Dev Project from Web Development Club 'WINK' using React
+  2. Web Dev Project using React from Web Dev Club 'WINK'
   
 - 🌱 I’m currently learning ...
   1. Recommendation Systems
