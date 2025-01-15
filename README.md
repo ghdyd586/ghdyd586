@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
   1. I'm learning Japanese, Dutch, and Spanish on Duolingo!
   2. I changed my major from English Literature to Software Engineering!
-  3. I love to collect 'Starbucks Been There Mugs'😂
+  3. I love collecting 'Starbucks Been There Mugs'😂 Currently I have 8
   
 
 
