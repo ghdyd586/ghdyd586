@@ -36,8 +36,9 @@ Here are some ideas to get you started:
   ➡️ He/Him
 
 - ⚡ Fun fact: ...
-  1. I'm learning Japanese, Dutch, and Spanish from Duolingo!
+  1. I'm learning Japanese, Dutch, and Spanish on Duolingo!
   2. I changed my major from English Literature to Software Engineering!
+  3. I love to collect 'Starbucks Been There Mugs'😂
   
 
 
